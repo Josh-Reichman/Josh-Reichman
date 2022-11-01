@@ -1,7 +1,5 @@
 ### Heya! I'm Josh! This is my profile! I'll fill this out later or something. ✌
 
-![](https://komarev.com/ghpvc/?username=Josh-Reichman&color=brightgreen&style=for-the-badge)
-
 <!--
 **Josh-Reichman/Josh-Reichman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Heya! I'm Josh! This is my profile! I'll fill this out later or something. ✌
+### Heya! I'm Josh! This is my profile! 
 
 <!--
 **Josh-Reichman/Josh-Reichman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
